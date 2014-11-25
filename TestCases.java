@@ -1,5 +1,3 @@
-package cs1410;
-
 import static org.junit.Assert.*;
 import static cs1410.MethodLibrary.*;
 
