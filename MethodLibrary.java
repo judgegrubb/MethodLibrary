@@ -6,8 +6,6 @@ import java.util.Scanner;
  * A collection of methods for the second assignment of CS 1410.
  * 
  * Elijah Grubb
- * CS1410
- * u0894728
  * September 11, 2014
  * 
  * @author
